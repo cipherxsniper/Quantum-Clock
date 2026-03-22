@@ -1,4 +1,4 @@
-// quantumCircleMock.js
+// qt.js
 // Thomas Lee Harvey Quantum Clock - Mock 0–60 Second Animation
 // Credit: Thomas Lee Harvey
 
