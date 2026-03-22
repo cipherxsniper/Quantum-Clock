@@ -3,7 +3,7 @@
 // Credit: Thomas Lee Harvey
 
 const SECOND_COUNT = 60;
-const TICK_INTERVAL_SEC = 500;
+const TICK_INTERVAL_SEC = 5000;
 const RADIUS = 10;
 
 const C = 186282;
